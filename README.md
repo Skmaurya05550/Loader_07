@@ -1,4 +1,7 @@
 # Spinner Loader
+![17289326192628749633526712040399](https://github.com/user-attachments/assets/dcc7e62c-8470-4c2f-a20b-8f12bb960ab4)
+
+
 
 This is a simple spinner loader animation created using HTML and CSS. The loader spins with a smooth animation and features a colorful design with two custom colors.
 
